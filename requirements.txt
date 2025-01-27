@@ -1,0 +1,8 @@
+langchain
+ipykernel
+langchain_community
+python-dotenv
+pypdf
+langchain-text-splitters
+sentence_transformers
+streamlit
